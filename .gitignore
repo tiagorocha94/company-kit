@@ -1,0 +1,32 @@
+# Binaries and compiled output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test and coverage output
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Go workspace files (local only — never committed)
+go.work
+go.work.sum
+
+# Vendor directory (this library does not vendor; consumers may)
+vendor/
+
+# IDE and editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Integration test environment (docker-compose overrides, .env file)
+.env
+docker-compose.override.yml
