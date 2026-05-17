@@ -24,4 +24,10 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ## Contributing
 
-See [AGENTS.md](AGENTS.md) for the working agreement, commit conventions, and PR workflow.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get started and what the review bar
+looks like. See [AGENTS.md](AGENTS.md) for commit conventions, branch naming, and the
+PR workflow.
+
+## Licence
+
+[MIT](LICENSE)
