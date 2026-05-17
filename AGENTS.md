@@ -198,6 +198,10 @@ The README always reflects what exists in the repository at that commit, nothing
 
 ## Rules for AI agents
 
+> The human-facing contribution guide is in [CONTRIBUTING.md](CONTRIBUTING.md).
+> That file covers what to work on, how to communicate, and the review bar.
+> This section covers the mechanical rules that apply equally to humans and agents.
+
 If you are an AI agent working in this repository:
 
 1. **Read this file first.** Before generating any file or command.
