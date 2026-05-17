@@ -10,6 +10,12 @@ See [AGENTS.md](AGENTS.md) for the rules governing when and how versions are cut
 
 ### Added
 - `README.md`: project philosophy, status, and licence.
-- `AGENTS.md`: working agreement for atomic commits, PR workflow, branching, versioning, and GitHub configuration.
+- `AGENTS.md`: working agreement for atomic commits, PR workflow, branching,
+  versioning, and GitHub configuration.
 - `CHANGELOG.md`: this file.
-- `docs/adr/0001-stdlib-first.md`: stdlib-first dependency policy - the three conditions an external dependency must satisfy to be introduced into this library.
+- `.github/CODEOWNERS`: default owner `@tiagorocha94`; ADR directory requires
+  explicit sign-off.
+- `CONTRIBUTING.md`: human-facing contribution guide covering what to work on,
+  ground rules, running tests, and review expectations.
+- `LICENSE`: MIT licence, copyright 2026 tiagorocha94.
+- `.gitignore`: Go library defaults.
