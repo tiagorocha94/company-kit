@@ -1,0 +1,16 @@
+# CODEOWNERS
+#
+# GitHub uses this file to automatically request reviews from the listed owners
+# when a PR touches the corresponding paths.
+#
+# Syntax: <pattern> <owner> [<owner> ...]
+# Owners can be GitHub usernames (@user) or teams (@org/team).
+#
+# The last matching rule takes precedence.
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything
+* @tiagorocha94
+
+# ADRs require explicit owner sign-off — architectural decisions are not casual
+docs/adr/ @tiagorocha94
